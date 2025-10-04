@@ -4,8 +4,8 @@
 
 ## 📂 Struktur Repository
 
-- **Frontend (FE):** [👉 Link ke Repository Frontend](https://github.com/endisuwandii/Clothify-9-web.git)
-- **Backend (BE):** [👉 Link ke Repository Backend](https://github.com/username/backend-repo)
+- **Frontend (FE):** [👉 Link to Frontend Repo](https://github.com/endisuwandii/Clothify-9-web.git)
+- **Backend (BE):** [👉 Link to Backend Repo](https://github.com/endisuwandii/Clothify-9-api.git)
 
 ---
 
