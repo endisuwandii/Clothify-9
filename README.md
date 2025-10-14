@@ -1,18 +1,15 @@
-# Clothify-9
+# Clothify
 
----
+## 📂 Repository Structure
 
-## 📂 Struktur Repository
+- **Frontend (FE):** [github.com/endisuwandii/clothify-web](https://github.com/endisuwandii/clothify-web)
+- **Backend (BE):** [github.com/endisuwandii/clothify-api](https://github.com/endisuwandii/clothify-api)
 
-- **Frontend (FE):** [👉 Link to Frontend Repo](https://github.com/endisuwandii/Clothify-9-web.git)
-- **Backend (BE):** [👉 Link to Backend Repo](https://github.com/endisuwandii/Clothify-9-api.git)
+## ✨ Key Features
 
----
+Planned features for this project (combined FE & BE):
 
-## ✨ Fitur Utama
+## 🛠️ Technologies Used
 
-Fitur-fitur yang direncanakan untuk project ini (gabungan dari FE & BE):
-
-## 🛠️ Teknologi yang Digunakan
-
-- **Frontend:** React.js + Tailwind CSS + Vite
+- **Backend:** ??????
+- **Frontend:** React + Tailwind CSS + Vite
